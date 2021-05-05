@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+  background-color: #282c34;
+}
+body {
+  background-color: #282c34;
+}
+/* table, */
+tr,
+th,
+td {
+  border: 1px solid rgb(171, 164, 164);
+  color: rgb(178, 238, 245);
+}
+
+li {
+  list-style: none;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 50vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.song-row__item {
+  width: 25%;
+}
+.totalDiv {
+  width: auto;
+  margin: 20px;
+  min-width: 300px;
+  padding: 10px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+
+  justify-items: center;
+}
+.formFonts {
+  color: lightblue;
+  margin: 20px;
+}
+button {
+  padding: 3px;
+  border-radius: 10px;
+  color: rgb(49, 125, 49);
+  background-color: honeydew;
+  height: 28px;
+}
+
+.formLayer {
+  margin: 10px;
+  border-radius: 5px;
+  height: 28px;
+}
