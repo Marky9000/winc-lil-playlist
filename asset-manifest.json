@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/winc-lil-playlist/static/css/main.0e4855bc.chunk.css",
+    "main.js": "/winc-lil-playlist/static/js/main.272516b7.chunk.js",
+    "main.js.map": "/winc-lil-playlist/static/js/main.272516b7.chunk.js.map",
+    "runtime-main.js": "/winc-lil-playlist/static/js/runtime-main.556a1595.js",
+    "runtime-main.js.map": "/winc-lil-playlist/static/js/runtime-main.556a1595.js.map",
+    "static/js/2.3ea867e4.chunk.js": "/winc-lil-playlist/static/js/2.3ea867e4.chunk.js",
+    "static/js/2.3ea867e4.chunk.js.map": "/winc-lil-playlist/static/js/2.3ea867e4.chunk.js.map",
+    "static/js/3.eb4733a9.chunk.js": "/winc-lil-playlist/static/js/3.eb4733a9.chunk.js",
+    "static/js/3.eb4733a9.chunk.js.map": "/winc-lil-playlist/static/js/3.eb4733a9.chunk.js.map",
+    "index.html": "/winc-lil-playlist/index.html",
+    "static/css/main.0e4855bc.chunk.css.map": "/winc-lil-playlist/static/css/main.0e4855bc.chunk.css.map",
+    "static/js/2.3ea867e4.chunk.js.LICENSE.txt": "/winc-lil-playlist/static/js/2.3ea867e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.556a1595.js",
+    "static/js/2.3ea867e4.chunk.js",
+    "static/css/main.0e4855bc.chunk.css",
+    "static/js/main.272516b7.chunk.js"
+  ]
+}
